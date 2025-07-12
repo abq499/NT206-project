@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Message\\",
+  "WorkspaceRootPath": "C:\\NT206-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|c:\\message\\message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|c:\\nt206-project\\message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\interface\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\interface\\formprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75FCC3C9-246B-4019-A840-21A7624AB26C}|ServerTestChat\\ServerTestChat.csproj|C:\\Message\\servertestchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75FCC3C9-246B-4019-A840-21A7624AB26C}|ServerTestChat\\ServerTestChat.csproj|C:\\NT206-project\\servertestchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75FCC3C9-246B-4019-A840-21A7624AB26C}|ServerTestChat\\ServerTestChat.csproj|solutionrelative:servertestchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\imageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\imageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\imageform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\imageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\Message\\message\\interface\\formprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|C:\\NT206-project\\message\\interface\\formprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECD2A131-4EB1-4F81-8398-EF9235706F2D}|Message\\Message.csproj|solutionrelative:message\\interface\\formprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,19 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:672546458:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "FormProfile.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\Interface\\FormProfile.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Interface\\FormProfile.cs",
               "RelativeDocumentMoniker": "Message\\Interface\\FormProfile.cs",
-              "ToolTip": "C:\\Message\\Message\\Interface\\FormProfile.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\Interface\\FormProfile.cs",
               "RelativeToolTip": "Message\\Interface\\FormProfile.cs",
               "ViewState": "AQIAALUAAAAAAAAAAAAqwLwAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -72,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\Program.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Program.cs",
               "RelativeDocumentMoniker": "Message\\Program.cs",
-              "ToolTip": "C:\\Message\\Message\\Program.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\Program.cs",
               "RelativeToolTip": "Message\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -84,7 +80,7 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "FormProfile.cs [Design]",
-              "DocumentMoniker": "C:\\Message\\Message\\Interface\\FormProfile.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Interface\\FormProfile.cs",
               "RelativeDocumentMoniker": "Message\\Interface\\FormProfile.cs",
               "ToolTip": "C:\\Users\\Admin\\Downloads\\NT106.P12-Group10-main\\NT106.P12-Group10-main\\NT106_Group10_DoAn\\Message\\Message\\Interface\\FormProfile.cs [Design]",
               "RelativeToolTip": "..\\Users\\Admin\\Downloads\\NT106.P12-Group10-main\\NT106.P12-Group10-main\\NT106_Group10_DoAn\\Message\\Message\\Interface\\FormProfile.cs [Design]",
@@ -95,11 +91,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormLogin.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\Interface\\FormLogin.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Interface\\FormLogin.cs",
               "RelativeDocumentMoniker": "Message\\Interface\\FormLogin.cs",
-              "ToolTip": "C:\\Message\\Message\\Interface\\FormLogin.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\Interface\\FormLogin.cs",
               "RelativeToolTip": "Message\\Interface\\FormLogin.cs",
-              "ViewState": "AQIAAMYAAAAAAAAAAAAzwOEAAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAcwOEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T05:55:45.561Z",
               "EditorCaption": ""
@@ -108,10 +104,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FormLogin.cs [Design]",
-              "DocumentMoniker": "C:\\Message\\Message\\Interface\\FormLogin.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Interface\\FormLogin.cs",
               "RelativeDocumentMoniker": "Message\\Interface\\FormLogin.cs",
               "ToolTip": "C:\\Message\\Message\\Interface\\FormLogin.cs [Design]",
-              "RelativeToolTip": "Message\\Interface\\FormLogin.cs [Design]",
+              "RelativeToolTip": "..\\Message\\Message\\Interface\\FormLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T05:55:45.567Z"
             },
@@ -119,9 +115,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Message\\ServerTestChat\\Program.cs",
+              "DocumentMoniker": "C:\\NT206-project\\ServerTestChat\\Program.cs",
               "RelativeDocumentMoniker": "ServerTestChat\\Program.cs",
-              "ToolTip": "C:\\Message\\ServerTestChat\\Program.cs",
+              "ToolTip": "C:\\NT206-project\\ServerTestChat\\Program.cs",
               "RelativeToolTip": "ServerTestChat\\Program.cs",
               "ViewState": "AQIAAJAAAAAAAAAAAAAowKIAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,9 +127,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ImageForm.Designer.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\ImageForm.Designer.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\ImageForm.Designer.cs",
               "RelativeDocumentMoniker": "Message\\ImageForm.Designer.cs",
-              "ToolTip": "C:\\Message\\Message\\ImageForm.Designer.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\ImageForm.Designer.cs",
               "RelativeToolTip": "Message\\ImageForm.Designer.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAqwEYAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
@@ -143,9 +139,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ImageForm.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\ImageForm.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\ImageForm.cs",
               "RelativeDocumentMoniker": "Message\\ImageForm.cs",
-              "ToolTip": "C:\\Message\\Message\\ImageForm.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\ImageForm.cs",
               "RelativeToolTip": "Message\\ImageForm.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwDYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -155,7 +151,7 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "ImageForm.cs [Design]",
-              "DocumentMoniker": "C:\\Message\\Message\\ImageForm.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\ImageForm.cs",
               "RelativeDocumentMoniker": "Message\\ImageForm.cs",
               "ToolTip": "E:\\iloveyou\\Message\\Message\\ImageForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -165,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "FormProfile.Designer.cs",
-              "DocumentMoniker": "C:\\Message\\Message\\Interface\\FormProfile.Designer.cs",
+              "DocumentMoniker": "C:\\NT206-project\\Message\\Interface\\FormProfile.Designer.cs",
               "RelativeDocumentMoniker": "Message\\Interface\\FormProfile.Designer.cs",
-              "ToolTip": "C:\\Message\\Message\\Interface\\FormProfile.Designer.cs",
+              "ToolTip": "C:\\NT206-project\\Message\\Interface\\FormProfile.Designer.cs",
               "RelativeToolTip": "Message\\Interface\\FormProfile.Designer.cs",
               "ViewState": "AQIAAAoCAAAAAAAAAAAMwOIBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
